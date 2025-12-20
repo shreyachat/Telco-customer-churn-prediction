@@ -51,3 +51,10 @@ future production deployment.
 - Pandas, NumPy
 - Scikit-learn
 - Matplotlib, Seaborn
+
+## Key Outcomes
+
+- Built an end-to-end customer churn prediction pipeline
+- Identified high-risk customer segments using machine learning
+- Translated model outputs into clear business recommendations
+- Prepared a deployment-ready preprocessing and modeling pipeline
